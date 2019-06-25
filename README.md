@@ -4,7 +4,7 @@ Analytical queries are queries with numerical aggregators: computing the average
 
 ## Publication
 
-*Anytime Large-Scale Analytics of Linked Open Data.* Arnaud Soulet and Fabian M. Suchanek, Full paper at ISWC19 (research track).
+*Anytime Large-Scale Analytics of Linked Open Data.* [Arnaud Soulet](http://www.info.univ-tours.fr/~soulet/) and [Fabian M. Suchanek](https://suchanek.name/), Full paper at [ISWC19](https://iswc2019.semanticweb.org/) (research track).
 
 ## Results of experiments
 
@@ -22,3 +22,7 @@ We provide the Java source code of the prototype:
 
 - *Usage query:* This implementation measures property usage and class usage in the [statistics directory](https://github.com/asoulet/iswc19analytics/tree/master/statistics).
 - *Representativeness of LOD:* This implementation computes for each property, a distribution over the frequency of the first significant digit of the number of objects per subject in the [representativeness directory](https://github.com/asoulet/iswc19analytics/tree/master/representativeness). We used the method proposed [here](http://www.info.univ-tours.fr/~soulet/prototype/iswc18/) to convert this distribution into a score between 0 and 1 that measures the "representativeness" of the triplestores.
+
+## Acknowledgments
+
+This work was partially supported by the grant ANR-16-CE23-0007-01 (“DICOS”).
