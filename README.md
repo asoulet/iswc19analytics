@@ -9,11 +9,11 @@ Analytical queries are queries with numerical aggregators: computing the average
 ## Results of experiments
 
 - *Validation on DBpedia:*
-  - *Quality of convergence:* dbpedia_convergence.csv
-  - *Top-k precision:* dbpedia_top.csv
-  - *Efficiency:* dbpedia_efficiency.csv
-- *Usage query on the LOD cloud:* LOD_statistics.csv
-- *Representativeness of LOD:* LOD_representativeness.csv
+  - *Quality of convergence:* [dbpedia_convergence.csv](results/dbpedia_convergence.csv)
+  - *Top-k precision:* [dbpedia_top.csv](results/dbpedia_top.csv)
+  - *Efficiency:* [dbpedia_efficiency.csv](results/dbpedia_efficiency.csv)
+- *Usage query on the LOD cloud:* [LOD_statistics.csv](results/LOD_statistics.csv)
+- *Representativeness of LOD:* [LOD_representativeness.csv](results/LOD_representativeness.csv)
 
 ## Source code
 
