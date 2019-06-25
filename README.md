@@ -25,4 +25,4 @@ We provide the Java source code of the prototype:
 
 ## Acknowledgements
 
-This work was partially supported by the grant ANR-16-CE23-0007-01 (“DICOS”).
+This work was partially supported by the grant ANR-16-CE23-0007-01 ([“DICOS”](https://suchanek.name/work/research/dicos/index.html)).
