@@ -19,5 +19,5 @@ Analytical queries are queries with numerical aggregators: computing the average
 
 We provide the Java source code of the prototype:
 
-- *Usage query:* This implementation measures property usage and class usage.
-- *Representativeness of LOD:* This implementation computes for each property, a distribution over the frequency of the first significant digit of the number of objects per subject. We used the method proposed here to convert this distribution into a score between 0 and 1 that measures the "representativeness" of the triplestores.
+- *Usage query:* This implementation measures property usage and class usage in the [statistics directory](https://github.com/asoulet/iswc19analytics/tree/master/statistics).
+- *Representativeness of LOD:* This implementation computes for each property, a distribution over the frequency of the first significant digit of the number of objects per subject in the [representativeness directory](https://github.com/asoulet/iswc19analytics/tree/master/representativeness). We used the method proposed [here](http://www.info.univ-tours.fr/~soulet/prototype/iswc18/) to convert this distribution into a score between 0 and 1 that measures the "representativeness" of the triplestores.
