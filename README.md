@@ -8,6 +8,7 @@ Analytical queries are queries with numerical aggregators: computing the average
 
 ## Results of experiments
 
+We provide the results of all our experiments in the [results directory](https://github.com/asoulet/iswc19analytics/tree/master/results):
 - *Validation on DBpedia:*
   - *Quality of convergence:* [dbpedia_convergence.csv](results/dbpedia_convergence.csv)
   - *Top-k precision:* [dbpedia_top.csv](results/dbpedia_top.csv)
