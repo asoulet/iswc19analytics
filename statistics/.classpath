@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/robusta.jar" sourcepath="/robusta_burundi/src"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jena/collection-0.7.jar"/>
+	<classpathentry kind="lib" path="lib/jena/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jena/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="lib/jena/commons-compress-1.17.jar"/>
+	<classpathentry kind="lib" path="lib/jena/commons-csv-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/jena/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/jena/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/jena/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/jena/httpclient-cache-4.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/jena/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-arq-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-base-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-cmds-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-core-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-dboe-base-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-dboe-index-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-dboe-trans-data-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-dboe-transaction-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-iri-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-rdfconnection-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-shaded-guava-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-tdb-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-tdb2-3.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jsonld-java-0.12.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/libthrift-0.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/jena/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/jena/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli/commons-cli-1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli/commons-cli-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli/commons-cli-1.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli/commons-cli-1.4-tests.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli/commons-cli-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
